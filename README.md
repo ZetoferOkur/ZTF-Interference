@@ -1,5 +1,5 @@
 # ZTF-Interference
-The ZTF-Interference tool implements interference modeling from n numbers of non-necessarily point sources. The non-pointedness of the source is modeled as several very close point sources (sub-sourcese of source).
+The ZTF-Interference tool implements interference modeling from n numbers of non-necessarily point sources. Non-point sources are modeled as several very close point sources (sub-sources of source).
 
 The simulated system has variable parameters (in the "main" function):
 - Time;
